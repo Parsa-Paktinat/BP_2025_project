@@ -1,0 +1,3 @@
+C:/Users/parsa/Documents/university/Programming and linux/C++/sharifBPBaby403/ProjectOfBP/cmake-build-debug/CMakeFiles/ProjectOfBP.dir
+C:/Users/parsa/Documents/university/Programming and linux/C++/sharifBPBaby403/ProjectOfBP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/parsa/Documents/university/Programming and linux/C++/sharifBPBaby403/ProjectOfBP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
