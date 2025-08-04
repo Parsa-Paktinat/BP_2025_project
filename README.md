@@ -1,5 +1,8 @@
 # BP_2024_project
-Final project of the Basic Programming course at Sharif University of Technology, Faculty of Electrical Engineering in 2024
+Final project of the Basic Programming course at Sharif University of Technology, Faculty of Electrical Engineering in 2024.
+
+Creators: Parsa Paktinat, Hamid-Reza Alaie
+
 [![C++ Version](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
 [![SDL2 Version](https://img.shields.io/badge/SDL2-2.0.12-blue.svg)](https://www.libsdl.org/)
 
