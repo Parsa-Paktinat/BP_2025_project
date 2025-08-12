@@ -1,4 +1,4 @@
-# BP_2024_project
+# BP_2025_project
 Final project of the Basic Programming course at Sharif University of Technology, Faculty of Electrical Engineering in 2024.
 
 Creators: Parsa Paktinat, Hamid-Reza Alaie
