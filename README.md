@@ -28,5 +28,5 @@ I would be happy to use your ideas to improve and develop this program.
 ## Credits
 
 |  Student Name  |        School      | Student ID |
-| : | : |
+| :--- | :--- |
 | Parsa Paktinat | EE Department, SUT | 403101518  |
