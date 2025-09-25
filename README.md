@@ -29,4 +29,4 @@ I would be happy to use your ideas to improve and develop this program.
 
 |  Student Name  |        School      | Student ID |
 | :------------- | :----------------- | :--------- |
-| Parsa Paktinat | EE Department, SUT | 403101518  |
+| Parsa Paktinat | EE Department, Sharif University of Technology | 403101518  |
