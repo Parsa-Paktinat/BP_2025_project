@@ -27,6 +27,6 @@ I would be happy to use your ideas to improve and develop this program.
 
 ## Credits
 
-|  Student Name  |        School      | Student ID |
-| :------------- | :----------------- | :--------- |
-| Parsa Paktinat | EE Department, Sharif University of Technology | 403101518  |
+|  Student Name  |        School      |
+| :------------- | :----------------- |
+| Parsa Paktinat | EE Department, Sharif University of Technology |
